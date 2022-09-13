@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/E01_Start_with_makito/E01_Start_with_makito.iml" filepath="$PROJECT_DIR$/E01_Start_with_makito/E01_Start_with_makito.iml" />
       <module fileurl="file://$PROJECT_DIR$/E02_Spy/E02_Spy.iml" filepath="$PROJECT_DIR$/E02_Spy/E02_Spy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E03_Using_InjectMock/E03_Using_InjectMock.iml" filepath="$PROJECT_DIR$/E03_Using_InjectMock/E03_Using_InjectMock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mockito_Practice.iml" filepath="$PROJECT_DIR$/Mockito_Practice.iml" />
     </modules>
   </component>

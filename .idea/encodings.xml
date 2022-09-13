@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/E01_Start_with_makito/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/E02_Spy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/E02_Spy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E03_Using_InjectMock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E03_Using_InjectMock/src/main/resources" charset="UTF-8" />
   </component>
 </project>
